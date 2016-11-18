@@ -1,0 +1,34 @@
+
+#sobreMiback{
+	background-image: url(images/bodybackground.jpg);
+	background-repeat: no-repeat;
+	background-color: #C1C0BD;
+	background-size: cover;
+
+}
+#imgYo{
+	border-radius: 50%
+}
+.cajaimg{
+	width: 20em;
+	height: 20em;
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+#imgbtrap {
+	padding-top: 2.5em;
+}
+.mtop3{
+	margin-top: 3em;
+}
+.mbotm3{
+	margin-bottom: 3em;
+}
+.mtopbot3{
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+.ptopbot3{
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
