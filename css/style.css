@@ -1,9 +1,21 @@
-
-#sobreMiback{
-	background-image: url(../images/bodybackground.jpg);
-	background-size: cover;
+*{
+	margin: 0;
+}
+.sobreMiback{
+	background-image: url(../images/bodybackground.jpg);	
 	background-color: #C1C0BD;
 	background-size: cover;
+}
+.citaBack{
+	height: 13em;
+	background-image: url(../images/ogl.jpg);
+	background-color: #2B3959;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: bottom;
+	color: #FFC808;
+	font-size: 2em;
 }
 .cajadiv{
 	height: 45em;
@@ -14,12 +26,51 @@
 	height: 20em;
 	margin-top: 3em;
 	margin-bottom: 3em;
+	padding: 1.5em;
 }
 #imgbtrap {
 	padding-top: 2.5em;
 }
+.semblanza{
+	font-size: 1.5em;
+}
+.logo{
+	width: 3.2em;
+	height: 2.8em;
+}
+.proyectos{
+	width: 100%;
+	height: 15em;
+}
+ul.nav a:hover{
+	background-color: #727272 !important;
+}
+h2{
+	color: #2B3959;
+}
+footer{	
+	background-color: #2B3959;
+	font-size: 1em;
+	color: white;
+	padding: .5em;
+}
+.socioem{
+	padding-right: .5em;
+	color: #FFC808;
+	font-weight: bold;
+	text-align: right;
+}
+.mtop1{
+	margin-top: 1em;
+}
 .mtop3{
 	margin-top: 3em;
+}
+.mtop5{
+	margin-top: 5em;
+}
+.mbotm2{
+	margin-bottom: 2em;
 }
 .mbotm3{
 	margin-bottom: 3em;
@@ -28,16 +79,18 @@
 	margin-top: 3em;
 	margin-bottom: 3em;
 }
+.pd7y3{
+	padding-top: 7em;
+	padding-bottom: 3em;
+}
 .ptopbot3{
 	padding-top: 3em;
-	padding-bottom: 3em;
+	padding-bottom: 2em;
 }
 .ptopbot1{
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
-footer{	
-	background-color: #2B3959;
-	font-size: 1em;
-	color: white;
+.pd{
+	padding: 1em;
 }
